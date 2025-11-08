@@ -1,6 +1,6 @@
 streamlit
 pandas
-pycaret==3.3.2
+pycaret==3.0.4
 plotly
 qdrant-client
 python-dotenv
