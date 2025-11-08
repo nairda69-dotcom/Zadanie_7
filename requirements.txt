@@ -4,3 +4,4 @@ pycaret==3.3.2
 plotly
 qdrant-client
 python-dotenv
+scikit-learn==1.2.2
