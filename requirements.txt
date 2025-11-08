@@ -1,7 +1,6 @@
-json
 streamlit
 pandas
 pycaret
-plotly.express
+plotly
 qdrant-client
-dotenv
+python-dotenv
